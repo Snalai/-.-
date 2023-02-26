@@ -1,4 +1,4 @@
-﻿void funk(string[] Str)
+void funk(string[] Str)
 {   
     int Len = Str.Length;
     int Widt = 0;
