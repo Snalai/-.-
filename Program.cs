@@ -10,7 +10,15 @@
             Widt++;
         }
     }
-    
+    string[] NewStr = new string[Widt];
+    for (int i = 0; i < Len; i++)
+    {
+        if (Str[i].Length <= 3)
+        {
+            WidtNewStr++;
+            NewStr[WidtNewStr] = Str[i];
+        }
+    }
 
 
 
