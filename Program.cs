@@ -1,5 +1,5 @@
 ﻿
- string[] Str = { "hello", "2", "world", ":-" };
+ string[] Str = { "hello", "2", "world", ":-)" };
     int Len = Str.Length;
     int Widt = 0;
     int WidtNewStr = -1;
