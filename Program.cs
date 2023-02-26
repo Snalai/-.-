@@ -20,7 +20,7 @@
         }
     }
 }
-string[] Str = { "hello", "2", "world", ":-" };
+string[] Str = { "hello", "2", "world", ":-)" };
 funk(Str);
 
 
